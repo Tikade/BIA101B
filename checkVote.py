@@ -7,14 +7,14 @@
 # ?if above 18, print "You can vote"
  # ?if below 18, print "You canot vote
 
- if user can vote
+if user can vote
 if userAge >= 18:
-    print('You can vote')
+    print('You can vote')
 else:
-    print('You cannot vote')
+     print('You cannot vote')
 
 # 3. Check if user can vote
 if userAge > 18:
-    print('You can vote')
+     print('You can vote')
 elif userAge < 18:
-    print('You cannot vote')
+    print('You cannot vote')
